@@ -1,4 +1,3 @@
-
 #include <WiFi.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
@@ -6,8 +5,8 @@
 #include <DHT.h>
 
 // Replace with your network credentials
-const char *ssid = "Fds Alisha";
-const char *password = "angellost";
+const char *ssid = "Unavailable";
+const char *password = "*****";
 
 // Replace with your ThingSpeak channel details
 const char *thingSpeakApiKey = "I974NAASKC5K4K4V";
