@@ -1,1 +1,1 @@
-# Integrated-IoT-Water-quality-kit-
+Designed a comprehensive water quality analysis system utilizing IoT technology, integrating DS18B20, DHT11, Turbidity, and TDS sensors with an ESP32 microcontroller for real-time monitoring. The system seamlessly transmits data to the Thingspeak cloud server via Wi-Fi, enabling remote water quality assessment and analysis through a scalable and accessible web interface.
